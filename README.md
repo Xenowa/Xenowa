@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xenowa
+- 👋 Hi, I’m Tharana
 - 👀 I’m interested in Learning new technologies and building projects
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on front-end projects
