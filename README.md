@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tharana
-- 👀 I’m interested in Learning new technologies and building projects
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on front-end projects
+- 🚀 I’m passionate about learning new technologies and working on exciting projects.
+- ✨ Currently exploring deep learning.
+- 💞️ I’m open to collaborating on interesting software projects.
 
 <!---
 Xenowa/Xenowa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
