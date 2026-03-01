@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharana
 - 🚀 I’m passionate about learning new technologies and working on exciting projects.
-- ✨ Currently exploring deep learning.
+- ✨ Currently learning Architecture and teaching.
 - 💞️ I’m open to collaborating on interesting software projects.
 
 <!---
